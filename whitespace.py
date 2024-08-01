@@ -1,0 +1,1 @@
+print("python\n\tversion 3.5\nc\njava")
